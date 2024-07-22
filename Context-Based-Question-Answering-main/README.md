@@ -109,14 +109,9 @@ The motivation to implement the CBQA project is to make an easy-to-use interface
 ### Installation
 ---
 
-Before starting the installation, clone this repository using the following commands in the terminal.
 
-```console
-$ git clone https://github.com/Karthik-Bhaskar/Context-Based-Question-Answering.git
-````
 
-```console
-$ cd Context-Based-Question-Answering/
+$ cd Context-Based_Question-Answering/
 ```
 
 You can get started using one of the two options,
